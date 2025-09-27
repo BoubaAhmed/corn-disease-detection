@@ -1,0 +1,7 @@
+corn_leaf_model.keras
+corn_leaf_disease_custom_model.keras
+# Ignorer modèles lourds
+*.h5
+*.keras
+*.hdf5
+*.ckpt

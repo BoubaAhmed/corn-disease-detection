@@ -24,7 +24,7 @@ A deep learning project for **detecting corn leaf diseases** using a **Convoluti
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/corn-disease-detection.git
+git clone https://github.com/BoubaAhmed/corn-disease-detection
 cd corn-disease-detection
 ```
 
@@ -75,8 +75,8 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 BoubaAhmed
 
-###  💼 [LinkedIn](https://www.linkedin.com/posts/boubaahmed_ia-deeplearning-agritech-activity-7377453235399262208-nDwg?utm_source=share&utm_medium=member_desktop&rcm=ACoAADoEeIkBfLSDn9AGVm-Iq4HuMWIj2QYVyz8)
+#### 💼 [LinkedIn](https://www.linkedin.com/posts/boubaahmed_ia-deeplearning-agritech-activity-7377453235399262208-nDwg?utm_source=share&utm_medium=member_desktop&rcm=ACoAADoEeIkBfLSDn9AGVm-Iq4HuMWIj2QYVyz8)
 
-###  📧 ahmedbouba383@gmail.com
+####  📧 ahmedbouba383@gmail.com
 
 ---
